@@ -15,6 +15,7 @@ function App() {
         <a href="https://reactjs.org" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
+{/*         some changes */}
       </div>
       <h1>Vite + React</h1>
       <div className="card">
